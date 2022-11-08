@@ -1,6 +1,8 @@
 <h1 align="center"> Awesome Autonity </h1>
 
-![autonity logo](images/autonity-logo.png)
+<p align="center">
+  <img width="200" height="200" src="images/autonity-logo.png">
+</p>
 
 ---
 
