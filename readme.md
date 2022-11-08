@@ -1,6 +1,6 @@
 <h1 align="center"> Awesome Autonity </h1>
 
-![autonity logo](autonity-logo.png)
+![autonity logo](images/autonity-logo.png)
 
 ---
 
