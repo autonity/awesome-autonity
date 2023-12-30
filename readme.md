@@ -10,4 +10,8 @@
 
 ---
 
-THIS LIST IS CURRENTLY EMPTY
+- [Auton](https://www.coingecko.com/en/coins/auton) and [Newton](https://www.coingecko.com/en/coins/newton) market pages (by [coingecko.com](https://www.coingecko.com/en/coins/newton))
+
+- [Autonity Validator Explorer](https://stakeflow.io/autonity-piccadilly/validators) (by [stakeflow.io](https://stakeflow.io/autonity-piccadilly/validators)) 
+
+- Autonity's Chain ID registration for [Bakerloo](https://chainlist.org/chain/65010001) and [Piccadilly](https://chainlist.org/chain/65100001) testnets
