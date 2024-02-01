@@ -12,7 +12,7 @@ For an entry to be added to this list, the entry must be:
 
 To add an entry to the list, you should:
 
-- submit a PR with your entry added to [`reademe.md`](readme.md) under what you believe to be the appropriate category;
+- submit a PR with your entry added to [`readme.md`](readme.md) under what you believe to be the appropriate category;
 - using correctly formatted markdown, like `- [<entry description>](<entry url>)` (a dash, a single space and the markdown link); and
 - include a few sentences in your PR explaining why you think the resource is awesome and relevant to this list.
 
@@ -20,7 +20,7 @@ To add an entry to the list, you should:
 
 Not every entry is timelessly awesome. Perhaps an entry loses its awesomeness by becoming out-of-date, or perhaps an entry duplicates the essential information of a subsequently added, more awesome entry. Whatever the reason, if you think there's a good reason to remove an entry, you should:
 
-- submit a PR with the entry removed from [`reademe.md`](readme.md); and
+- submit a PR with the entry removed from [`readme.md`](readme.md); and
 - include a few sentences in your PR explaining why the entry is no longer awesome and should be removed.
 
 The entry will be removed if:
