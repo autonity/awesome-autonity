@@ -27,4 +27,4 @@
 - [Overview of the Autonity Economic Model](https://blog.stakeflow.io/overview-of-the-autonity-economic-model-311f3b90b7b9) (by [stakeflow.io](https://stakeflow.io))
 
 ### Technical Info
-- Autonity's Chain ID registration for [Bakerloo](https://chainlist.org/chain/65010001) and [Piccadilly](https://chainlist.org/chain/65100001) testnets
+- Autonity's Chain ID registration for [Bakerloo](https://chainlist.org/chain/65010002) and [Piccadilly](https://chainlist.org/chain/65100002) testnets
