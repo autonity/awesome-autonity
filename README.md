@@ -60,6 +60,7 @@ Websites, community social media, source code:
 - [Node deployment](https://github.com/Staketab/autonity-node) (by [Staketab](https://staketab.com/))
 - [Autonity Telegram Node Monitoring](https://github.com/inspector44/AutonityNurseBot) (by [Inspector](https://github.com/inspector44))
 - [Public Piccadilly Validator Dashboard](https://validators.game.autonity.org/) (by [Clearmatics](https://www.clearmatics.com/))
+- [node deployment & validator managment tool](https://github.com/adanothe/autonity) (by [adanode](https://github.com/adanothe/autonity))
 
 ### Developer
 
