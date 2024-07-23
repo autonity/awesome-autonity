@@ -48,6 +48,11 @@ Websites, community social media, source code:
 - [Block Explorer for Bakerloo Test Network](https://bakerloo.autonity.org/) (by [Clearmatics](https://www.clearmatics.com/))
 - [Block Explorer for Piccadilly Test Network](https://piccadilly.autonity.org/) (by [Clearmatics](https://www.clearmatics.com/))
 - [Autonity Validator Explorer](https://stakeflow.io/autonity-piccadilly/validators) (by [stakeflow.io](https://stakeflow.io))
+- [Adanode Explorer](https://https://autonity.adanothe.com/) (by [Adanode](https://autonity.adanothe.com/))
+
+### Dapps 
+
+- [Uni v3 AMM for Piccadilly Test Network](https://plutoprotocol.ai/) (by [Pluto Protocol](https://plutoprotocol.ai/))
 
 ### Market Information
 
