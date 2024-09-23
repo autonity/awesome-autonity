@@ -48,6 +48,9 @@ Websites, community social media, source code:
 - [Block Explorer for Bakerloo Test Network](https://bakerloo.autonity.org/) (by [Clearmatics](https://www.clearmatics.com/))
 - [Block Explorer for Piccadilly Test Network](https://piccadilly.autonity.org/) (by [Clearmatics](https://www.clearmatics.com/))
 - [Autonity Validator Explorer](https://stakeflow.io/autonity-piccadilly/validators) (by [stakeflow.io](https://stakeflow.io))
+- [Validator staking dashboard](https://autland.io/) (by [adanova](https://github.com/jfaiza/autland-test))
+- [Autonity validator and nodes monitoring dashboard with geographic centralization map](https://autonity.lefey.tech/zabbix.php?action=dashboard.view&dashboardid=342) (by [Lefey](https://github.com/Lefey/node_monitoring/tree/main/autonity))
+- [Validator Dashboard](https://autonity.adanothe.com/) (by [adanode](https://github.com/adanothe/autonity))
 
 ### Market Information
 
@@ -60,7 +63,8 @@ Websites, community social media, source code:
 - [Node deployment](https://github.com/Staketab/autonity-node) (by [Staketab](https://staketab.com/))
 - [Autonity Telegram Node Monitoring](https://github.com/inspector44/AutonityNurseBot) (by [Inspector](https://github.com/inspector44))
 - [Public Piccadilly Validator Dashboard](https://validators.game.autonity.org/) (by [Clearmatics](https://www.clearmatics.com/))
-- [node deployment & validator managment tool](https://github.com/adanothe/autonity) (by [adanode](https://github.com/adanothe/autonity))
+- [Node deployment & validator management tool](https://github.com/adanothe/autonity) (by [adanode](https://github.com/adanothe/autonity))
+- [GraphQL API to query Autonity network](https://public.adanothe.com/graphql) (by [adanode](https://github.com/adanothe/autonity))
 
 ### Developer
 
