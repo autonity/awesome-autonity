@@ -75,5 +75,5 @@ Websites, community social media, source code:
   - [Piccadilly Test Network](https://docs.autonity.org/networks/testnet-piccadilly/#public-endpoints)
 
 ### Technical Information
-- Autonity's Chain ID registration for [Bakerloo](https://chainlist.org/chain/65010002) and [Piccadilly](https://chainlist.org/chain/65100002) testnets
+- [Autonity's Chain ID registration](https://chainlist.org/?search=autonity&testnets=true) for its current testnets.
 
