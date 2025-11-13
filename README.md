@@ -61,6 +61,7 @@ Websites, community social media, source code:
 
 - [Validator Deployment Toolkit](https://github.com/web3cdnservices/autonity-validator-toolkit) (by [web3cdnservices](web3cdnservices))
 - [Node deployment](https://github.com/Staketab/autonity-node) (by [Staketab](https://staketab.com/))
+- [NTN Locking Contract Interface](https://github.com/ntnunlocker/ntn-lc-ui) (by [ntnunlocker](https://github.com/ntnunlocker))
 
 ### Developer
 
