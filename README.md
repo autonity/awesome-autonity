@@ -52,6 +52,7 @@ Websites, community social media, source code:
 - [Block Explorer for Mainnet](https://autonityscan.org/) (by [Clearmatics](https://www.clearmatics.com/))
 - [Autonity Bakerloo Validator Explorer](https://stakeflow.io/autonity-bakerloo/validators) (by [stakeflow.io](https://stakeflow.io))
 - [Autonity Mainnet Validator Explorer](https://stakeflow.io/autonity/validators) (by [stakeflow.io](https://stakeflow.io))
+- [Autonity Mainnet Validator Explorer](https://explorer.adanothe.com/) (by [adanode](https://github.com/adanothe))
 
 ### Market Information
 
