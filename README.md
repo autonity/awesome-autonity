@@ -14,6 +14,9 @@
 
 ---
 
+## **Disclaimer**
+
+_This list is maintained by the Autonity Community purely as an informational resource. It is curated **only** in the sense of containing things that Autonity community members liked or found useful when they saw it. Inclusion in this list does not imply endorsement and constitutes neither implicit nor explicit warranties or guarantees in relation to any of the products, resources, projects, entities, views, opinions, or sources listed here. Autonity shall not be liable for any damages or losses arising from the use of this repository or any information provided or linked to here._
 
 ### About Autonity
 Websites, community social media, source code:
